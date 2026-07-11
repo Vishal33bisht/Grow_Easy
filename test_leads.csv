@@ -1,0 +1,3 @@
+created_at,Name,email address,mobile number,company name,crm status,data source,description
+2026-07-09T12:00:00Z,John Doe,john.doe@@example.com,9876543210,Acme Corp,GOOD_LEAD_FOLLOW_UP,leads_on_demand,Interested in plots
+2026-07-09T12:00:00Z,John Doe,Acme Corp,GOOD_LEAD_FOLLOW_UP,leads_on_demand,Interested in plots
